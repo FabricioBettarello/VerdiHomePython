@@ -46,7 +46,7 @@ Com o aumento da demanda por energia e a necessidade de adotar práticas sustent
     ```
 3. Execute o programa:
    ```bash
-   python monitoramento_energia.py
+   python verdihomepython.py
     ```
 
 ## Interação:
